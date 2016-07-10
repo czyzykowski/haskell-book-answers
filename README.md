@@ -11,6 +11,7 @@ will be some errors. If you find one please create an issue.
 The list will be updated as I will write down the answers.
 
 1. [Chapter  1](chapter01.md)
+1. [Chapter  2](chapter02.md)
 1. [Chapter 10](chapter10.md)
 
 
