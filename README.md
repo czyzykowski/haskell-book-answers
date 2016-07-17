@@ -13,6 +13,7 @@ The list will be updated as I will write down the answers.
 1. [Chapter  1](chapter01.md)
 1. [Chapter  2](chapter02.md)
 1. [Chapter  3](chapter03.md)
+1. [Chapter  4](chapter04.md)
 1. [Chapter 10](chapter10.md)
 
 
