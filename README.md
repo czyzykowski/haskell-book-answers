@@ -10,12 +10,13 @@ will be some errors. If you find one please create an issue.
 
 The list will be updated as I will write down the answers.
 
-1. [Chapter  1](chapter01.md)
-1. [Chapter  2](chapter02.md)
-1. [Chapter  3](chapter03.md)
-1. [Chapter  4](chapter04.md)
-1. [Chapter  5](chapter05.md)
-1. [Chapter  6](chapter06.md)
+1. [Chapter  1. All You Need is Lambda](chapter01.md)
+1. [Chapter  2. Hello, Haskell!](chapter02.md)
+1. [Chapter  3. Strings](chapter03.md)
+1. [Chapter  4. Basic datatypes](chapter04.md)
+1. [Chapter  5. Types](chapter05.md)
+1. [Chapter  6. Typeclasses](chapter06.md)
+1. [Chapter  7. More functional patterns](chapter07.md)
 1. [Chapter 10](chapter10.md)
 
 
